@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+header h1 {
+  display: inline-block;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+header img {
+  margin-left: 200px;
+  width: 300px;
+}
+
+.par1 {
+  display: flex;
+  justify-content: center;
+  margin-left: 30px;
+}
+
+nav {
+  position: sticky;
+  top: 0px;
+  background-color: #fee724;
+  border: 2px solid red;
+  margin: 0px 100px 0px 100px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+nav li {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:link {
+  color: red;
+}
+
+nav a:visited {
+  color: blue;
+}
+
+nav a:hover {
+  color: red;
+}
+
+.pics {
+  display: flex;
+  justify-content: center;
+}
+
+.pics1 {
+  width: 300px;
+  height: 300px;
+  margin: 40px;
+}
+
+.pics2 {
+  width: 300px;
+  height: 300px;
+  margin: 40px;
+}
+
+.pics3 {
+  width: 300px;
+  height: 300px;
+  margin: 40px;
+}
+
+article {
+  display: block;
+  margin-left: 260px;
+}
+
+hr {
+  width: 80%;
+}
+
+.art {
+  display: flex;
+  flex-direction: row;
+}
+
+.art img {
+  padding-left: 30px;
+  width: 120px;
+  height: 150px;
+}
+
+.artFlower {
+  margin-left: 20px;
+}
+
+.artTartan {
+  margin-left: 10px;
+}
+
+.footP1 {
+  display: flex;
+  justify-content: center;
+}
+
+.footP2 {
+  display: flex;
+  justify-content: center;
+}
+
+footer a {
+  margin-left: 140px;
+}
+
+footer a:link {
+  color: red;
+}
+
+footer a:visited {
+  color: blue;
+}
+
+footer a:hover {
+  color: red;
+}
