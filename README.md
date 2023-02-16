@@ -1,3 +1,3 @@
 # newfoundland-page
 
-First HTML/CSS project from Keyin College
+First HTML page from Keyin College
